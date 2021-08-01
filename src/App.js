@@ -31,7 +31,7 @@ function App() {
   return (
     <div>
       <Header setActiveSectionState={setActiveSectionState} activeSection={activeSection}></Header>
-      <div className="main-content">
+      <div className="main-content" style={{background: (activeSection === "about") ? "gray" : "transparent"}}>
         {activeSectionJSX}
       </div>
       <Footer></Footer>

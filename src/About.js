@@ -8,7 +8,7 @@ function About() {
                 </div>
             </div>
             <div>
-                <p>I am a freelancer coder in Los Angeles, California. Been in business since 2020 and specialize in HTML and CSS. I find the logic of coding and its structures very interesting and I always try to learn more.</p>
+                <p style={{fontSize: "50px", color: "#0ab70a", textAlign: "center"}}>I am a freelancer coder in Los Angeles, California. Been in business since 2020 and specialize in HTML and CSS. I find the logic of coding and its structures very interesting and I always try to learn more.</p>
             </div>
         </>
     );
