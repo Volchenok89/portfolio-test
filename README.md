@@ -1,4 +1,62 @@
-# Getting Started with Create React App
+# Challenge #20: React Challenge: React Portfolio.
+
+This is the repository for my portfolio.
+
+___
+
+## Table of Contents
+* [Description](#description)
+* [Technologies Used](#technologies-used)
+* [Links](#links)
+* [Credits](#credits)
+* [License](#license)
+* [Getting Started](#getting started)
+
+
+___
+
+## Description
+
+This web application will allow people to check my portfolio Online. 
+
+My portfolio will get better while I study and I will be able to make it better along the way.
+
+
+
+___
+
+
+
+## Technologies used
+* node.js
+* JavaScript
+* React.js
+___
+
+## Links for the Github repositories and the deployed application.
+
+(https://github.com/Volchenok89/portfolio-test)
+
+https://volchenok89.github.io/portfolio-test/
+
+
+
+********SCREENSHOT GOES HERE********
+
+
+___
+
+## Credits
+* Completed by Volchenok89: [GitHub](https://github.com/Volchenok89).
+___
+
+## License
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+[MIT License](https://choosealicense.com/licenses/mit/)    
+
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
