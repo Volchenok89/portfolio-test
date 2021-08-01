@@ -13,7 +13,7 @@ function Portfolio() {
                             </div>
                         </div>
                     </div>
-                    <div className="grid-item" style={{backgroundImage: `url('${process.env.PUBLIC_URL}/projects/online-marketing.PNG')`}}>
+                    <div className="grid-item" style={{backgroundImage: `url('${process.env.PUBLIC_URL}/projects/quizzer.PNG')`}}>
                         <div className="overlay">
                             <div className="text-center">
                                 <a href="https://volchenok89.github.io/MyQuizzer/" target="_blank">Quizzer</a>
@@ -22,7 +22,7 @@ function Portfolio() {
                             </div>
                         </div>
                     </div>
-                    <div className="grid-item" style={{backgroundImage: `url('${process.env.PUBLIC_URL}/projects/password-generator.PNG')`}}>
+                    <div className="grid-item" style={{backgroundImage: `url('${process.env.PUBLIC_URL}/projects/online-marketing.PNG')`}}>
                         <div className="overlay">
                             <div className="text-center">
                                 <a href="https://volchenok89.github.io/HoriseonOnlineMarketingServices/" target="_blank">Horiseon Marketing</a>
@@ -31,7 +31,7 @@ function Portfolio() {
                             </div>
                         </div>
                     </div>  
-                    <div className="grid-item" style={{backgroundImage: `url('${process.env.PUBLIC_URL}/projects/quizzer.PNG')`}}>
+                    <div className="grid-item" style={{backgroundImage: `url('${process.env.PUBLIC_URL}/projects/password-generator.PNG')`}}>
                         <div className="overlay">
                             <div className="text-center">
                                 <a href="https://volchenok89.github.io/MyRandomPasswordGenerator/" target="_blank">Password Generator</a>
@@ -63,7 +63,9 @@ function Portfolio() {
                             <div className="text-center">
                                 <a href="http://medipack-front-end.herokuapp.com/login" target="_blank">MediPack</a>
                                 <br/>
-                                <a href="https://github.com/PrinceAdelXX/MediPack-Front-End" target="_blank">GitHub Repo</a>
+                                <a href="https://github.com/PrinceAdelXX/MediPack-Front-End" target="_blank">GitHub Repo (Frontend)</a>
+                                <br/>
+                                <a href="https://github.com/Volchenok89/MediPackBackEnd" target="_blank">GitHub Repo (Backend)</a>
                             </div>
                         </div>
                     </div>
