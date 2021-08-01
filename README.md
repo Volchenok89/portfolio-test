@@ -47,7 +47,7 @@ https://volchenok89.github.io/portfolio-test/
 ___
 
 ## Credits
-* Completed by Margarita Rivera: [GitHub](https://github.com/Volchenok89).
+* Completed by Volchenok89: [GitHub](https://github.com/Volchenok89).
 ___
 
 ## License
