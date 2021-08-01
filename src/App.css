@@ -49,8 +49,11 @@ footer {
   margin-left: 20px;
 }
 .about-user-avatar {
-  width: 200px;
   display: block;
+  border-radius: 50%;
+  height: 232px;
+  width: 232px;
+  object-fit: cover;
 }
 .contact-form {
 
