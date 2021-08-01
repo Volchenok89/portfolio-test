@@ -1,3 +1,4 @@
+
 # Challenge #20: React Challenge: React Portfolio.
 
 This is the repository for my portfolio.
@@ -41,7 +42,7 @@ https://volchenok89.github.io/portfolio-test/
 
 
 
-********SCREENSHOT GOES HERE********
+![myprojectsscreenshot](https://user-images.githubusercontent.com/77917594/127775802-aedc0725-f0da-48d2-81a0-cc84f65a3363.png)
 
 
 ___
