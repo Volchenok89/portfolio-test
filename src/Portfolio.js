@@ -58,6 +58,15 @@ function Portfolio() {
                             </div>
                         </div>
                     </div>
+                    <div className="grid-item" style={{backgroundImage: `url('${process.env.PUBLIC_URL}/projects/medipack.PNG')`}}>
+                        <div className="overlay">
+                            <div className="text-center">
+                                <a href="http://medipack-front-end.herokuapp.com/login" target="_blank">MediPack</a>
+                                <br/>
+                                <a href="https://github.com/PrinceAdelXX/MediPack-Front-End" target="_blank">GitHub Repo</a>
+                            </div>
+                        </div>
+                    </div>
                 </div>
             </div>
         </>
