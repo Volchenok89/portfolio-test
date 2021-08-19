@@ -42,7 +42,9 @@ https://volchenok89.github.io/portfolio-test/
 
 
 
-![myprojectsscreenshot](https://user-images.githubusercontent.com/77917594/127775802-aedc0725-f0da-48d2-81a0-cc84f65a3363.png)
+![home](https://user-images.githubusercontent.com/77917594/130148007-dd76a743-071b-4209-b60c-73a98ebad869.png)
+![projects](https://user-images.githubusercontent.com/77917594/130148015-3c2ee32d-bf29-405e-9e28-45154b7002e5.png)
+
 
 
 ___
